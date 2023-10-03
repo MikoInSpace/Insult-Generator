@@ -6,7 +6,7 @@ This is a simple Python program that randomly selects an insult from a text file
 
 1. Clone the repository or download the source code to your local machine.
 
-git clone https://github.com/MikoInSpace/insult-generator.git
+`git clone https://github.com/MikoInSpace/insult-generator.git`
 
 2. Place your list of insults in a file named `insults.txt` in the same directory as the script. Each insult should be on a new line.
 
